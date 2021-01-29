@@ -1,0 +1,13 @@
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.exe
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.deps.json
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.runtimeconfig.json
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.dll
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\bin\Debug\netcoreapp3.1\Capstone_TaskList.pdb
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.dll
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.pdb
+C:\Users\sheeh\source\repos\Capstone_TaskList\Capstone_TaskList\obj\Debug\netcoreapp3.1\Capstone_TaskList.genruntimeconfig.cache
